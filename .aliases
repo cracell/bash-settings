@@ -1,3 +1,5 @@
+#!/bin/bash 
+
 alias realias='chmod u+w ~/.aliases; $EDITOR ~/.aliases; source ~/.aliases; chmod -w ~/.aliases'
 alias enlighten="cd ~/projects/enlighten"
 alias jellyfish="cd ~/projects/jellyfish"
