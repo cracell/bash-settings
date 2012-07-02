@@ -1,0 +1,10 @@
+alias realias='chmod u+w ~/.aliases; $EDITOR ~/.aliases; source ~/.aliases; chmod -w ~/.aliases'
+alias enlighten="cd ~/projects/enlighten"
+alias jellyfish="cd ~/projects/jellyfish"
+alias s="python -m SimpleHTTPServer"
+alias localip="ipconfig getifaddr en1"
+alias b="bundle exec"
+alias jc="~/projects/jellyfish/copy_to_enlighten.sh"
+alias gca="git commit -a"
+alias mexe='chmod 755'
+alias changefilelog="git log --name-only --color"
