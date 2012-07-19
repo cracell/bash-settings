@@ -10,3 +10,5 @@ alias jc="~/projects/jellyfish/copy_to_enlighten.sh"
 alias gca="git commit -a"
 alias mexe='chmod 755'
 alias changefilelog="git log --name-only --color"
+alias gpullmaster="git pull origin master"
+alias gpushmaster="git push origin master"
